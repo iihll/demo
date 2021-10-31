@@ -8,6 +8,6 @@ export default defineComponent({
         <router-view />
       </a-config-provider>
     )
-  }
+  },
 })
 </script>

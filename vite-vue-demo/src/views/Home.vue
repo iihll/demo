@@ -12,7 +12,7 @@
 </template>
 
 <script>
-import IDrawerForm from '../components/Form.vue'
+import IDrawerForm from '@/components/IDrawerForm.vue'
 import { toRaw } from 'vue'
 
 class FormState {
