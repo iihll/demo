@@ -1,6 +1,5 @@
 <script lang="jsx">
 import { defineComponent } from 'vue'
-import h from '@/components/HelloWorld.vue'
 
 export default defineComponent({
   name: 'Home',
