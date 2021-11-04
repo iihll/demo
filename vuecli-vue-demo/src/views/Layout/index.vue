@@ -12,23 +12,11 @@
 </template>
 
 <script>
-import {
-  PieChartOutlined,
-  DesktopOutlined,
-  UserOutlined,
-  TeamOutlined,
-  FileOutlined,
-} from '@ant-design/icons-vue'
 import { defineComponent, ref } from 'vue'
 import components from './components'
 
 export default defineComponent({
   components: {
-    PieChartOutlined,
-    DesktopOutlined,
-    UserOutlined,
-    TeamOutlined,
-    FileOutlined,
     ...components
   },
   data() {

@@ -7,6 +7,8 @@ export default defineComponent({
     return () => (
       <div class="home">
         <a-button>test</a-button>
+        <div className="ca">
+        </div>
       </div>
     )
   },
